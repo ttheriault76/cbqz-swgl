@@ -3,3 +3,71 @@ seasons:
   - name: John
     start: Aug 1, 2026
     days: 365
+    meets:
+
+      - name: Meet 1
+        start: Oct 10 2026 9 AM EDT
+        new_material: John 1-4
+        host:
+            name: Berrien Center Bible Church
+            url: https://berriencenter.church
+            address: 8830 M-140 Berrien Center MI 49102
+        notes: Bring sack lunch
+
+      - name: Meet 2
+        start: Nov 14 2026 9 AM EST
+        new_material: John 6, 8
+        host:
+            name: Berrien Center Bible Church
+            url: https://berriencenter.church
+            address: 8830 M-140 Berrien Center MI 49102
+        notes: Bring sack lunch
+
+      - name: Meet 3
+        start: Dec 12 2026 9 AM EST
+        new_material: John 10
+        host:
+            name: Berrien Center Bible Church
+            url: https://berriencenter.church
+            address: 8830 M-140 Berrien Center MI 49102
+        notes: Bring sack lunch
+
+      - name: Meet 4
+        start: Jan 9 2027 9 AM EST
+        new_material: John 11
+        host:
+            name: Berrien Center Bible Church
+            url: https://berriencenter.church
+            address: 8830 M-140 Berrien Center MI 49102
+        notes: Bring sack lunch
+
+      - name: Meet 5
+        start: Feb 13 2027 9 AM EST
+        new_material: John 12-13
+        host:
+            name: Berrien Center Bible Church
+            url: https://berriencenter.church
+            address: 8830 M-140 Berrien Center MI 49102
+        notes: Bring sack lunch
+
+      - name: Meet 6
+        start: Mar 13 2027 9 AM EDT
+        new_material: John 14-15, 19
+        host:
+            name: Berrien Center Bible Church
+            url: https://berriencenter.church
+            address: 8830 M-140 Berrien Center MI 49102
+        notes: Bring sack lunch
+
+      - name: Meet 7
+        start: Apr 10 2027 9 AM EDT
+        new_material: John 20
+        host:
+            name: Berrien Center Bible Church
+            url: https://berriencenter.church
+            address: 8830 M-140 Berrien Center MI 49102
+        notes: Bring sack lunch
+
+      - name: International Open Championships
+        start: May 21 2027 5 PM PDT
+        days: 3
