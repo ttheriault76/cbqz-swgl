@@ -16,7 +16,7 @@ seasons:
 
       - name: Meet 2
         start: Nov 14 2026 9 AM EST
-        new_material: John 6, 8
+        new_material: John 6
         host:
             name: Berrien Center Bible Church
             url: https://berriencenter.church
@@ -25,7 +25,7 @@ seasons:
 
       - name: Meet 3
         start: Dec 12 2026 9 AM EST
-        new_material: John 10
+        new_material: John 8, 10
         host:
             name: Berrien Center Bible Church
             url: https://berriencenter.church
